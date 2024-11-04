@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I'm Okin, new to tech but very passionate about it.
+- ⚡ Fun fact: I'm a coffee addict and a tech addict. I also have a new addiction; can you guess what it is?
+- 👯 I’m open to any collab! 
 <!--
 **oaklane/oaklane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
